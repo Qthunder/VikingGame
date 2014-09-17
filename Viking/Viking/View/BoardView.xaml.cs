@@ -10,11 +10,11 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 
-namespace SilverlightApplication1
+namespace Viking.View
 {
-    public partial class MainPage : UserControl
+    public partial class BoardView : UserControl
     {
-        public MainPage()
+        public BoardView()
         {
             InitializeComponent();
         }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SilverlightApplication1.Web")]
+[assembly: AssemblyTitle("Viking")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SilverlightApplication1.Web")]
+[assembly: AssemblyProduct("Viking")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fe73d628-b95a-47ad-8ee0-55b86b099a57")]
+[assembly: Guid("bd20ab68-6134-4e8c-a07c-12e697212b52")]
 
 // Version information for an assembly consists of the following four values:
 //

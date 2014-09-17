@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication1", "SilverlightApplication1\SilverlightApplication1.csproj", "{BD20AB68-6134-4E8C-A07C-12E697212B52}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication1.Web", "SilverlightApplication1.Web\SilverlightApplication1.Web.csproj", "{1C5FD766-46F6-4126-9D8E-03A3D8FCD4F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viking", "Viking\Viking.csproj", "{BD20AB68-6134-4E8C-A07C-12E697212B52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{BD20AB68-6134-4E8C-A07C-12E697212B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD20AB68-6134-4E8C-A07C-12E697212B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD20AB68-6134-4E8C-A07C-12E697212B52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C5FD766-46F6-4126-9D8E-03A3D8FCD4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C5FD766-46F6-4126-9D8E-03A3D8FCD4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C5FD766-46F6-4126-9D8E-03A3D8FCD4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C5FD766-46F6-4126-9D8E-03A3D8FCD4F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
